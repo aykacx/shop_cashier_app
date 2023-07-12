@@ -9,13 +9,13 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-light bg-light static-top" style="height:150px; background-color:lightgray;">
+    <nav style="height:150px; background-color:lightgray;">
         <div class="container">
-            <a style="float:left;" class="navbar-brand" href="index.php">Cahsier App</a>
-            <a style="float:right;" class="navbar-brand" href="add_product.php">Add product</a>
-            <a style="float:right;" class="navbar-brand" href="sell_product.php">Sell product</a>
+            <a style="float:left;" href="index.php">Cahsier App</a>
+            <a style="float:right;" href="add_product.php">Add product</a>
+            <a style="float:right;" href="sell_product.php">Sell product</a>
             <center>
-                <div class="ml-1 mr-5"><img src="img/logo.png" height="150px" width="150px"></div>
+                <div><img src="img/logo.png" height="150px" width="150px"></div>
             </center>
         </div>
     </nav>
